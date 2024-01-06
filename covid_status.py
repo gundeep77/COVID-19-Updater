@@ -1,4 +1,4 @@
-from plyer import notification as nt
+# from plyer import notification as nt
 from bs4 import BeautifulSoup
 import requests
 import pync     # use pync instead of plyer on m1 mac
